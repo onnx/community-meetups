@@ -6,6 +6,8 @@
 
 # Agenda
 
+Note: The agenda below may be slightly changed to address speaker constraints.
+
 | Time | Talk |
 | --- | --- |
 | 9:00 - 9:10 | Welcome |
