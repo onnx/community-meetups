@@ -2,7 +2,11 @@
 * Event: ONNX Community Meetup 2026 
 * Date: June 26, 2026 (Friday) 
 * Location: Microsoft Silicon Valley Campus (1045 La Avenida St, Mountain View, CA)
+* Room: Hubbard
 * Format: In-person event with livestream access 
+
+Please see [visitor information](Mountain-View-Visitor-Information.pdf) and [map](Map.png)
+if attending in person.
 
 # Agenda
 
