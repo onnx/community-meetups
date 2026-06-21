@@ -10,6 +10,7 @@ Note: The agenda below may be slightly changed to address speaker constraints.
 
 | Time | Talk |
 | --- | --- |
+| 8:30 - 9:00 | Breakfast available |
 | 9:00 - 9:10 | Welcome |
 | 9:10 - 9:30 | DiTOX: Fault Detection and Localization in the ONNX Optimizer (Nikolaos Louloudakis) |
 | 9:30 - 10:00 | SONNX: Formal Specification of ONNX for Safety-Critical Systems (Eric Jenn & Jean Souyris) |
@@ -27,3 +28,4 @@ Note: The agenda below may be slightly changed to address speaker constraints.
 | 02:10 - 02:20 | Converter SIG Update (Xavier Dupre) |
 | 02:20 - 02:30 | GenAI WG Update (Yamini Nimmagadda, Javier Martinez & G. Ramalingam) |
 | 02:30 - 02:40 | Operator SIG Update (G. Ramalingam) |
+| 02:40 - ...   | Open discussions |
