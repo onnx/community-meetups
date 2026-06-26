@@ -21,7 +21,7 @@ Note: The agenda below may be slightly changed to address speaker constraints.
 | 10:00 - 10:20 | Lessons Learned Building an ONNX-to-C Compiler with 100% Test Coverage (Timo Stripf) |
 | 10:20 - 10:30 | Neural Network Compression Framework for ONNX (Freddy Chiu & Sahar Fatima) |
 | 10:30 - 11:00 | Break |
-| 11:00 - 11:10 | Arch/Infra SIG Update (Andreas Fehlner & Christian Bourjau) |
+| 11:00 - 11:10 | Architecture & Infrastrucutre SIG Update (Andreas Fehlner) |
 | 11:10 - 11:20 | ONNX Community Survey Results (Christian Bourjau) |
 | 11:20 - 11:40 | Beyond Latency: Understanding ONNX Execution on AI PCs (Freddy Chiu & Vasanth Tovinkere) |
 | 11:40 - 12:00 | Mobius - Agentic model conversion for ONNX (Justin Chu) |
