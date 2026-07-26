@@ -58,6 +58,26 @@ Tracking for to-do items, due dates, owners, and notes
 
 # Schedule & Presentations
 
+## Program Overview (Numbered)
+
+1. 08:00 - ONNX SC Session (Welcome, Progress, Roadmap, Release) - [ONNX workshop October 21, 2021 final.pptx](./slides/ONNX%20workshop%20October%2021,%202021%20final.pptx)
+2. 08:25 - ONNX Runtime Web: running your machine learning model in browser - [ONNX Runtime Web for In-Browser Inference.pptx](./slides/ONNX%20Runtime%20Web%20for%20In-Browser%20Inference.pptx)
+3. 08:35 - ONNX as standard format for institution with legacy - [HAIXUAN_TAO_SLIDES.pptx](./slides/HAIXUAN_TAO_SLIDES.pptx)
+4. 08:45 - ONNX and the AI on IBM Z client journey - [IBM AI and ONNX - October 2021.pdf](./slides/IBM%20AI%20and%20ONNX%20-%20October%202021.pdf)
+5. 08:55 - Intel Neural Compressor: A Scalable Quantization Tool for ONNX Models - [ONNX_INC_20211021.pdf](./slides/ONNX_INC_20211021.pdf)
+6. 09:05 - Ascend CANN and ONNX: inference interoperability for better performance - [ONNX Workshop CANN 2021.pdf](./slides/ONNX%20Workshop%20CANN%202021.pdf)
+7. 09:15 - Intel OneAPI software stack: ONNX support for xPU hardware - [oneAPI software stack ONNX support for xPU hardware.pdf](./slides/oneAPI%20software%20stack%20ONNX%20support%20for%20xPU%20hardware.pdf)
+8. 09:25 - ONNX: Boosting PaddlePaddle Deployment in Industry - [ONNX-Boosting PaddlePaddle Deployment in Industry v4.pptx](./slides/ONNX-Boosting%20PaddlePaddle%20Deployment%20in%20Industry%20v4.pptx)
+9. 09:35 - Auditing considerations for ONNX models and benchmarking with QuSandbox - [Audit_Considerations Sri-ONNX.pdf](./slides/Audit_Considerations%20Sri-ONNX.pdf)
+10. 09:45 - TVM: Dynamic shapes, control flow, and quantization with a compiler - [Slides (external)](https://drive.google.com/file/d/1f3JhHn2Ed8_t_y1p-XXyOjWo3dLYi3wd/view?usp=sharing)
+11. 09:55 - Place of ONNX in OpenVINO ecosystem - [Place of ONNX in OpenVINO Ecosystem.pptx](./slides/Place%20of%20ONNX%20in%20OpenVINO%20Ecosystem.pptx)
+12. 10:05 - Triton and ONNX Runtime - [Triton ORT Presentation - ONNX Meetup Oct 2021.pptx](./slides/Triton%20ORT%20Presentation%20-%20ONNX%20Meetup%20Oct%202021.pptx)
+13. 10:10 - Architecture/Infrastructure SIG Update - [ASHWINI_KHADE_ARCH_INFRA_SIG_Oct_2021.pptx](./slides/ASHWINI_KHADE_ARCH_INFRA_SIG_Oct_2021.pptx)
+14. 10:20 - Operators SIG Update - [ONNX Operators SIG Workshop 2021Q3.pptx](./slides/ONNX%20Operators%20SIG%20Workshop%202021Q3.pptx)
+15. 10:30 - Converters SIG Update - [onnx_converters_sig_workshop_1021 Chin-ONNX.pdf](./slides/onnx_converters_sig_workshop_1021%20Chin-ONNX.pdf)
+16. 10:40 - Model Zoo / Tutorials SIG Update - [ONNX Model Zoo SIG update.pptx](./slides/ONNX%20Model%20Zoo%20SIG%20update.pptx)
+17. 10:50 - Pre-processing WG - [ONNX preprocessing WG - Update Oct 21, 2021.pdf](./slides/ONNX%20preprocessing%20WG%20-%20Update%20Oct%2021,%202021.pdf)
+
 | Time | Duration | Topic / Speaker | Deck / Recording Links |
 | --- | --- | --- | --- |
 | **8:00 AM PST** | 15 minutes | Event Kickoff - Agenda Review, Host: Rajeev Nalawadi (Intel) <br/> ONNX Progress Update <br/> Speakers: ONNX Steering Committee - Prasanth, Alex, Wenming, Rajeev <br/> <br/> **000 - ONNX SC Session** | **Full Event Recording and Presentation** <br/> [Recording full meeting (3 hours)](https://zoom.us/rec/share/UK8dose4GL_Io4Pb9TQ9W1Rk5S1KYOO407J1UvPJsTtQmPOv-2gP6e8HkZiPW526.AudTnHIKlFI6tpq6) <br/> [ONNX workshop October 21, 2021 final.pptx](./slides/ONNX%20workshop%20October%2021,%202021%20final.pptx) <br/> <br/> **ONNX Steering Committee Welcome, Progress, Roadmap, Release (15 minutes)** <br/> , [YouTube](https://youtu.be/HRW77NfwAUM), Twitter, LinkedIn, Facebook |
