@@ -27,11 +27,6 @@ jobs:
     - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
       with:
         persist-credentials: false
-    - name: Set up pixi
-      uses: prefix-dev/setup-pixi@5185adfbffb4bd703da3010310260805d89ebb11 # v0.9.6
-      with:
-        environments: link-checker
-
     - name: Restore lychee cache
       id: restore-cache
       uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
@@ -44,4 +39,6 @@ jobs:
         restore-keys: cache-lychee-
 
     - name: Check links
-      run: pixi run -e link-checker lychee --root-dir . --cache-exclude-status=400..599 --cache .
+      uses: lycheeverse/lychee-action@v2
+      with:
+        args: --root-dir . --cache-exclude-status=400..599 --cache .
