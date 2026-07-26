@@ -1,0 +1,47 @@
+# Copyright (c) ONNX Project Contributors
+#
+# SPDX-License-Identifier: Apache-2.0
+
+name: Check URLs
+
+on:
+  push:
+    branches:  [ "main", rel-* ]
+  pull_request:
+    paths:
+      - "**/*.md"
+      - ".github/workflows/check_urls.yml"
+  schedule:
+    # Run every month
+    - cron:  '0 0 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      with:
+        persist-credentials: false
+    - name: Set up pixi
+      uses: prefix-dev/setup-pixi@5185adfbffb4bd703da3010310260805d89ebb11 # v0.9.6
+      with:
+        environments: link-checker
+
+    - name: Restore lychee cache
+      id: restore-cache
+      uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: .lycheecache
+        # We don't hit the 'key' directly in subsequent
+        # commits. Instead we fall back to the latest 'restore-key'
+        # match and will store a new cached file when done.
+        key: cache-lychee-${{ github.sha }}
+        restore-keys: cache-lychee-
+
+    - name: Check links
+      run: pixi run -e link-checker lychee --root-dir . --cache-exclude-status=400..599 --cache .
