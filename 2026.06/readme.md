@@ -16,21 +16,21 @@ Note: The agenda below may be slightly changed to address speaker constraints.
 | --- | --- |
 | 8:30 - 9:00 | Breakfast available |
 | 9:00 - 9:10 | Welcome |
-| 9:10 - 9:30 | [DiTOX: Fault Detection and Localization in the ONNX Optimizer](Slides/01-DiTOX.pdf) (Nikolaos Louloudakis) |
+| 9:10 - 9:30 | [DiTOX: Fault Detection and Localization in the ONNX Optimizer](slides/01-DiTOX.pdf) (Nikolaos Louloudakis) |
 | 9:30 - 10:00 | SONNX: Formal Specification of ONNX for Safety-Critical Systems (Eric Jenn & Jean Souyris) |
 | 10:00 - 10:20 | Lessons Learned Building an ONNX-to-C Compiler with 100% Test Coverage (Timo Stripf) |
-| 10:20 - 10:30 | [Neural Network Compression Framework for ONNX](Slides/04-Neural-Network-Compression-Framework.pdf) (Freddy Chiu & Sahar Fatima) |
+| 10:20 - 10:30 | [Neural Network Compression Framework for ONNX](slides/04-Neural-Network-Compression-Framework.pdf) (Freddy Chiu & Sahar Fatima) |
 | 10:30 - 11:00 | Break |
-| 11:00 - 11:10 | Architecture & Infrastructre SIG Update (Andreas Fehlner) |
-| 11:10 - 11:20 | [ONNX Community Survey Results](Slides/06-ONNX-Community-Survey-Results.pdf) (Christian Bourjau) |
-| 11:20 - 11:40 | [Beyond Latency: Understanding ONNX Execution on AI PCs](Slides/07-Beyond-Latency-AI-PCs.pdf) (Freddy Chiu & Vasanth Tovinkere) |
+| 11:00 - 11:10 | [Architecture & Infrastructre SIG Update](slides/05-ArchitectureInfrastructure-SIG-Update.pdf) (Andreas Fehlner) |
+| 11:10 - 11:20 | [ONNX Community Survey Results](slides/06-ONNX-Community-Survey-Results.pdf) (Christian Bourjau) |
+| 11:20 - 11:40 | [Beyond Latency: Understanding ONNX Execution on AI PCs](slides/07-Beyond-Latency-AI-PCs.pdf) (Freddy Chiu & Vasanth Tovinkere) |
 | 11:40 - 12:00 | Mobius - Agentic model conversion for ONNX (Justin Chu) |
 | 12:00 - 01:30 | Lunch |
-| 01:30 - 01:50 | [ONNX and the Future of Verifiable AI](Slides/09-Verifiable-AI.pdf) (Sean Westfall) |
+| 01:30 - 01:50 | [ONNX and the Future of Verifiable AI](slides/09-Verifiable-AI.pdf) (Sean Westfall) |
 | 01:50 - 02:00 | Probabilistic Programming WG Update (Brian Parbhu & Adam Pocock) |
 | 02:00 - 02:10 | Compiler SIG Update (Alexandre Eichenberger) |
-| 02:10 - 02:20 | [Converter SIG Update](Slides/12-Converter-SIG-Update.pdf) (Xavier Dupre) |
-| 02:20 - 02:30 | [GenAI WG Update](Slides/13-GenAI-WG-Update.pdf) (Yamini Nimmagadda, Javier Martinez & G. Ramalingam) |
-| 02:30 - 02:40 | [Operator SIG Update](Slides/14-Operator-SIG-Update.pdf) (G. Ramalingam) |
-| 02:40 - 02:50 | [ONNX without protobuf](Slides/15-ONNX-without-Protobuf.pdf) (Xavier Dupre) |
+| 02:10 - 02:20 | [Converter SIG Update](slides/12-Converter-SIG-Update.pdf) (Xavier Dupre) |
+| 02:20 - 02:30 | [GenAI WG Update](slides/13-GenAI-WG-Update.pdf) (Yamini Nimmagadda, Javier Martinez & G. Ramalingam) |
+| 02:30 - 02:40 | [Operator SIG Update](slides/14-Operator-SIG-Update.pdf) (G. Ramalingam) |
+| 02:40 - 02:50 | [ONNX without protobuf](slides/15-ONNX-without-Protobuf.pdf) (Xavier Dupre) |
 | 02:50 - ...   | Open discussions |
